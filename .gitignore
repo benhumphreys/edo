@@ -1,2 +1,7 @@
+# Object & executable files
 edo
 *.o
+
+# Other
+*.swp
+core
